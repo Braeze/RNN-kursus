@@ -1,0 +1,2 @@
+# RNN kursus
+ Udemy kursus
